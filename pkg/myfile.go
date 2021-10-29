@@ -1,6 +1,6 @@
 package pkg
 
-function myFunction() {
+function MyFunction() {
   fmt.Println("Hello my imported function")
   fmt.Println("Testing go module semversioning")
 }
